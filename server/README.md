@@ -2,7 +2,7 @@
 
 ## Setup Overview
 
-    Postges - A Database to store our data in table
+    Postgres - A Database to store our data in table
     Prisma - Used To Design Postges Database
     GraphQL - Used to Query Database
 
