@@ -3,7 +3,7 @@
 ## Setup Overview
 
     Postges - A Database to store our data in table
-    Prisma - Used To Design Postges Database
+    Prisma - Used To Design Postgres Database
     GraphQL - Used to Query Database
 
 ## Current BackEnd State
@@ -19,5 +19,5 @@
         sudo service postgresql start
         sudo su postgres
         psql [database-name]
-    Mirgate Schemes
+    Migrate Schemes
         npm(npx) prisma migrate dev
